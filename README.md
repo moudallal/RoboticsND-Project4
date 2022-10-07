@@ -11,7 +11,7 @@ Find Udacity's Robotics Software Engineering Nanodegree [here](https://www.udaci
 - Setup RGB-D camera inside Gazebo
 - Create `mapping.launch` and `localization.launch` files
 - Control robot using `teleop`
-- Build mapping database found [here]()
+- Build mapping database found [here](https://drive.google.com/file/d/1sCqWaeIa-KqX8yfkxj1dn9U6NpkjLYU1/view?usp=sharing)
 
 <!-- The requirements of this project were met as approved by Udacity's reviewers. -->
 
