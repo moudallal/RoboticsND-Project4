@@ -41,7 +41,6 @@ Find the following images showing the a few details of the project.
 
 ![](https://i.imgur.com/12OmSgt.png)
 <p align = "center"><b>Fig.6 - Final Map</b></p>
-<br />
 
 ## Credits
 
