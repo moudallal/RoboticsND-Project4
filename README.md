@@ -27,19 +27,11 @@ Find the following images showing the a few details of the project.
 <p align = "center"><b>Fig.2 - Initial launching of mapping.launch file</b></p>
 <br />
 
-![](https://i.imgur.com/ntXy49i.png)
-<p align = "center"><b>Fig.3 - RTAB-Map DB view at initial launch</b></p>
-<br />
-
-![](https://i.imgur.com/J7Hr1tg.png)
-<p align = "center"><b>Fig.4 - Result mid-mapping</b></p>
-<br />
-
-![](https://i.imgur.com/yDSRsNa.png)
+![](https://i.imgur.com/W9FamDb.png)
 <p align = "center"><b>Fig.5 - 3D Map inside RTAB-Map DB viewer</b></p>
 <br />
 
-![](https://i.imgur.com/12OmSgt.png)
+![](https://i.imgur.com/DUa6hMp.png)
 <p align = "center"><b>Fig.6 - Final Map</b></p>
 
 ## Credits
